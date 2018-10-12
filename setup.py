@@ -28,6 +28,7 @@ setup(name         = 'robotframework-csvlibrary',
       ],
       install_requires = [
           'robotframework >= 2.6.0',
+          'unicodecsv',
       ],
       packages    = ['CSVLibrary'],
       )

@@ -1,4 +1,4 @@
-import unicsv as csv
+import unicodecsv as csv
 from robot.api import logger
 from version import VERSION
 
